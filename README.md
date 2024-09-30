@@ -22,7 +22,7 @@ This query is selecting the city column in the locations table, counting employe
 <br><br><br><br><br>
 
 
-still on the employees geagraphical locations, the query is selecting reion_name in the regions table, country_name in the countries table, counting employee_id in the employees table, joining the departments, locations, countries, and regions tables, and naming the result as number_of_employees to determine the number of enployees per country/region.
+still on the employees geagraphical locations, the query is selecting region_name in the regions table, country_name in the countries table, counting employee_id in the employees table, joining the departments, locations, countries, and regions tables, and naming the result as number_of_employees to determine the number of enployees per country/region.
 ![NUmber of emploiyees per country/region](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/no%20of%20emp%20per%20contry%20and%20region.jpg)
 
 
