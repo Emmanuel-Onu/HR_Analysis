@@ -44,5 +44,13 @@ The query below is selecting depatment_name column from the departments table, c
 
 This query is selecting the department_name column from the departments table, computing the average of salary column from the employees table and rounding it up to 2 decimal places, joining departments and employees tables and naming the result as avg_salary to display the average salary range in each department.
 ![Average salary in each department](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/avg_salary%20in%20each%20dpt.jpg)
+<br><br><br><br><br>
 
+
+
+### How commission impacts the total compensation of each employee
+
+This query is selecting the first_name column, last_name column, salary column, commission_pct column from the employees table, also calculating the total compemsation by summing the employee's salary and the product of their salary and their commission as total_compensation.
+![How commission impacts the total compensation of each employee](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/which%20employee%20earns%20comission%20and%20how%20it%20impacts%20their%20compensation.jpg)
+<br><br><br><br><br>
 
