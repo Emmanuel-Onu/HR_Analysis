@@ -10,4 +10,9 @@ The goal of this analysis is to make informed decision in the workforce manageme
 6. How commission impacts the total compenstion of each employee and
 7. Average tenure of employees by department.
 
+
+This query is counting the employee_id column in the employees table and naming the result as Total_workforce to determine the number of employees.
 ![Total Workforce](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/total%20workforce.jpg)
+
+
+
