@@ -40,3 +40,9 @@ The query below is selecting depatment_name column from the departments table, c
 <br><br><br><br><br>
 
 
+### Average salary in each department
+
+This query is selecting the department_name column from the departments table, computing the average of salary column from the employees table and rounding it up to 2 decimal places, joining departments and employees tables and naming the result as avg_salary to display the average salary range in each department.
+![Average salary in each department](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/avg_salary%20in%20each%20dpt.jpg)
+
+
