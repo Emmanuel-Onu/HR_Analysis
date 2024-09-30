@@ -13,7 +13,7 @@ The goal of this analysis is to make informed decision in the workforce manageme
 
 This query is counting the employee_id column in the employees table and naming the result as Total_workforce to determine the number of employees.
 ![Total Workforce](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/total%20workforce.jpg)
----
+<br>
 ![Number of employees working in each location](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/no%20of%20emp%20working%20in%20each%20location.jpg)
 
 
