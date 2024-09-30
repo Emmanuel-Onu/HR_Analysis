@@ -54,3 +54,9 @@ This query is selecting the first_name column, last_name column, salary column, 
 ![How commission impacts the total compensation of each employee](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/which%20employee%20earns%20comission%20and%20how%20it%20impacts%20their%20compensation.jpg)
 <br><br><br><br><br>
 
+
+### Average tenure of employees in each department
+
+The query is selecting the depaartment_name column, takes the current system date and truncates the time part, leaving only the date, truncates the hire date of each employee leaving only the date, calculates the number of days the employee has worked in the company, dividing the result by 365 converts the days into years, calculates the average and rounding the result to two decimal places.
+![Average tenure of employees](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/Average%20tenure%20of%20employees.jpg)
+
