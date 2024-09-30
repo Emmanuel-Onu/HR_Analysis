@@ -31,5 +31,12 @@ Still on the employees geagraphical locations, the query is selecting region_nam
 
 The query is exctracting "year" from the hire_date column in the employees table, counting the employee_id column in the employees table to determine the number of employees hired in each year.
 ![Number of employess hired each year](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/no%20of%20emp%20per%20year.jpg)
+<br><br><br><br><br>
+
+### Size of each department in terms of the number of employees
+
+The query below is selecting depatment_name column from the departments table, counting employee_id column from the employees table, joining departments and employees tables to display the size of each department.
+![Size of each department](https://github.com/Emmanuel-Onu/HR_Analysis/blob/main/size%20of%20departments%20in%20terms%20of%20no%20of%20emp.jpg)
+<br><br><br><br><br>
 
 
