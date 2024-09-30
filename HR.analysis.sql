@@ -1,4 +1,4 @@
---HR ANALYSIS
+-- 1. HR ANALYSIS
 
 --total workforce---
 select count(employee_id) as Total_workforce
